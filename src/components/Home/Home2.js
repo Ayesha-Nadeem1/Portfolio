@@ -19,18 +19,17 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              Results-driven software developer with proficiency in C#.NET Framework. Experienced in desktop application development and adept at participating in business requirements gathering. Proven expertise in project management seeking a challenging role to leverage analytical abilities andcontribute to innovative solutions.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, C# and Python. </b>
+                <b className="purple"> Javascript, C# and Python. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building &nbsp;
               <i>
-                <b className="purple">Mobile Apps and Products </b> and
+                <b className="purple">Desktop Apps and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Web Developement.
@@ -48,7 +47,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js and Angular.js</b>
               </i>
             </p>
           </Col>

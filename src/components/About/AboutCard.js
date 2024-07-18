@@ -11,27 +11,24 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Ayesha Nadeem </span>
             from <span className="purple"> Lahore, Pakistan.</span>
             <br />
-            I am currently studying Computer Science at University of Engineering and Technology,Lahore.
+            I am currently studying Computer Science at University of Engineering and Technology, Lahore.
             <br />
 
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I'm fond of doing!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Content Creation
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Social Media Handling
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Do not wait for Tomorrow; begin now."{" "}
           </p>
           <footer className="blockquote-footer">Ayesha Nadeem</footer>
         </blockquote>
